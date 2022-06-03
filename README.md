@@ -1,11 +1,9 @@
-<p align="center">
-  
+<p align="center">  
     <h1>Prueba tecnica Hector Hernandez</h1>
-    <p>FIGMA: </p>
-    <a href='[https://weremote.net](https://www.figma.com/file/WVaCQtSzpBQJAUkf99wxFa/Figma-Test-(Copy)?node-id=4%3A5327)'> FIGMA DESIGN      
-  </a>
+    <a href='https://www.figma.com/file/WVaCQtSzpBQJAUkf99wxFa/Figma-Test-(Copy)?node-id=4%3A5327'> FIGMA DESIGN      
+    </a>
 </p>
-<br />
+<br/>
 
 ## Descripción
 **Frontend DEV Challenge** prueba de admisión para desarrolladores en HTML, CSS, JavaScript.
